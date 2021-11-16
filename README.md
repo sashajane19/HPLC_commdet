@@ -5,7 +5,7 @@ All code and data in this repository are freely available for use by anyone for 
 
 Kramer, S.J., D.A. Siegel, and J.R. Graff (2020). Phytoplankton community composition determined from co-variability among phytoplankton pigments from the NAAMES field campaign. Frontiers in Marine Science, 7(215), 1-15, https://doi.org/10.3389/fmars.2020.00215.
 
-And please also cite the authors of the method that you use: 
+And please also cite the authors of the method(s) that you use in your published analysis: 
 
 (1) WGCNA: Zhang, B., and S. Horvath (2005), A general framework for Weighted Gene Co-Expression Network Analysis, Statistical Applications in Genetics and Molecular Biology, 4(1), 1-45, doi:10.2202/1544-6115.1128.
 
